@@ -1,5 +1,5 @@
-# Natural-Language-Processing
-# Natural Language Processing (NLP) with Hebrew Texts
+
+# Natural Language Processing (NLP) 
 
 This repository contains four exercises focusing on Natural Language Processing (NLP) tasks using Hebrew texts from the Knesset protocols. The exercises guide you through various stages of NLP, including corpus creation, text classification, language modeling, and the use of word embeddings.
 
